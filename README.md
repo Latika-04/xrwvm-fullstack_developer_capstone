@@ -1,1 +1,1 @@
-# coding-project-template
+# Best Cars Django Application
